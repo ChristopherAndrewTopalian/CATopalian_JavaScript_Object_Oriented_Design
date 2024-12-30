@@ -23,7 +23,7 @@ function makeTitleOfApp()
     mainDiv.append(titleOfApp);
 }
 
-//--//
+//----//
 
 // Dedicated to God the Father
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024
