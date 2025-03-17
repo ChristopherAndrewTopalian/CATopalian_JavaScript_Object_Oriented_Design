@@ -13,8 +13,8 @@ function makeTitleOfApp()
 
     let titleOfApp = ce('a');
     titleOfApp.id = 'titleOfApp';
-    titleOfApp.textContent = 'Topalian JavaScript Object Oriented Design';
-    titleOfApp.href = 'https://github.com/ChristopherAndrewTopalian/Topalian_JavaScript_Object_Oriented_Design';
+    titleOfApp.textContent = 'CATopalian JavaScript Object Oriented Design';
+    titleOfApp.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Object_Oriented_Design';
     titleOfApp.target = '_blank';
     titleOfApp.style.fontSize = '17px';
     titleOfApp.style.fontWeight = 'bold';
