@@ -1,8 +1,9 @@
 # CATopalian JavaScript Object Oriented Design
+An object oriented JavaScript application with code that teaches many important computer science and data science topics.  
 
-An object oriented JavaScript application with code that teaches many important computer science and data science topics.
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Design/CATopalian_JavaScript_Object_Oriented_Design.html  
 
-USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Design/CATopalian_JavaScript_Object_Oriented_Design.html
+![screenshot_001](src/media/textures/screenshots/001.JPG)  
 
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
